@@ -32,7 +32,7 @@ import (
 	"time"
 
 	"golang.org/x/exp/constraints"
-	"golang.org/x/exp/slices"
+	"slices"
 
 	"google.golang.org/protobuf/types/known/durationpb"
 

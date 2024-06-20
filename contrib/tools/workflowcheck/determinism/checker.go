@@ -34,7 +34,7 @@ import (
 	"strings"
 	"sync"
 
-	"golang.org/x/exp/slices"
+	"slices"
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/types/typeutil"
 )
